@@ -7,3 +7,5 @@
 # Then write this line in the beginning of your config.php and save it. The line is: <php? require_once "rate_limit_24.php"; ?> 
 # Installation completed.
 # To get the zip password, email me at: jarircse16@gmail.com with a subject . Note that payment is required, this is not free. 
+![Screenshot](screenshot_rate_limit.png)
+
